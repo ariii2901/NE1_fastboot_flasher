@@ -1,0 +1,2 @@
+# NE1_fastboot_flasher
+Hi all, this script I made it for NOKIA 3 [NE1] to flash the device without authorised OST LA login. This script can able to flash the device in Bootloader locked condition or in unlocked condition, but remember for Bootloader locked condition you need to generate the "Challenge Code" which is paid. For unlocked bootloader condition just run the script &amp; you'll good to go.
